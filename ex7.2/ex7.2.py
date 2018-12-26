@@ -13,4 +13,4 @@ for line in fh:
         num = float(line[21:]) #21 is the position  we find 0 in the lines starting with X-DSPAM:
         tot = num + tot
         avg = tot/count
-print(avg)
+print("Average spam confidence:",avg)
