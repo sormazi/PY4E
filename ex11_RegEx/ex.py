@@ -15,8 +15,8 @@ print(sum)
 
 # += adds another value with the variable's value and assigns the new value to the variable.
 
-x = 3
-x += 2
-print (x)
-5
+# x = 3
+# x += 2
+# print (x)
+# Output = 5
 # -=, *=, /= does similar for subtraction, multiplication and division.
